@@ -44,7 +44,7 @@ const StartButton: FC<StartButtonProps> = ({ title }) => {
         {/* Ikon panah */}
         <TouchableOpacity
           activeOpacity={0.7}
-          onPress={() => router.push("/login")}
+          onPress={() => router.replace("/(tabs)/home")}
           className="p-4 rounded-full"
         >
           <Ionicons name="arrow-forward" size={30} color="#08363B" />

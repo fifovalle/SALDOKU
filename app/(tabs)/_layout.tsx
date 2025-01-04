@@ -39,11 +39,11 @@ export default function TataLetakTabs() {
       />
 
       <Tabs.Screen
-        name="profile"
+        name="transaction"
         options={{
           tabBarIcon: ({ focused }) =>
-            OptionsIconTabs({ focused, icon: "person" }),
-          tabBarLabel: "Profil",
+            OptionsIconTabs({ focused, icon: "receipt" }),
+          tabBarLabel: "Transaksi",
           tabBarLabelStyle: { color: "#fff" },
         }}
       />
