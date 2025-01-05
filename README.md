@@ -72,8 +72,8 @@ Punya pertanyaan atau ingin berkolaborasi? Hubungi saya melalui:
    Scan QR code di terminal dengan aplikasi Expo Go atau buka di emulator
    ```
 
-<div align="center">  
-  &copy; 2024 **Naufal FIFA**  
+<div align="center">
+  &copy; 2025 [Naufal FIFA]
 </div>
 
 ---
