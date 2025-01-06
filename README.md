@@ -33,7 +33,7 @@
 
 ## 📷 **Pratinjau Aplikasi**
 
-🚧 **Segera Hadir!** Screenshot yang menampilkan UI/UX aplikasi akan segera ditambahkan.
+![proyek96](https://github.com/user-attachments/assets/902da855-780c-4987-89f9-b67536596e84)
 
 ---
 
